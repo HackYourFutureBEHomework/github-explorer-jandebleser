@@ -1,3 +1,24 @@
 .alert-error {
     color: red;
 }
+
+.header {
+    width: 100%;
+    background-color: lightblue;
+}
+
+.left {
+    width: 50%;
+    background-color: lightcoral;
+    display: inline-block;
+}
+
+.right {
+    width: 50%;
+    background-color: lightgoldenrodyellow;
+    display: inline-block;
+}
+
+label {
+    font-weight: bold;
+}
